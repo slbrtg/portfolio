@@ -106,7 +106,8 @@ h1, h2, h3 {
 
 .entry,
 .page,
-.list {
+.list,
+.entry {
   margin-top:    1.9rem;
   margin-bottom: 1.5rem;
   margin-left: 5%;
@@ -114,7 +115,7 @@ h1, h2, h3 {
 
 @media (min-width: 768px) {
   .listing {
-    margin-left: 45%;
+    margin-left: 35%;
     width: 65%;
     padding-left: 0;
   }
@@ -129,7 +130,7 @@ h1, h2, h3 {
 @media (min-width: 1170px) {
   .listing {
     width: 70%;
-    margin-left: 25%;
+    margin-left: 27.5%;
     margin-right: 2.5%;
   }
 }
@@ -189,10 +190,12 @@ h1, h2, h3 {
 .entry-title a:hover {
   color: #1a1a1a;
 }
-.entry-text {
+.entry-date {
   font-weight: 300;
   color: #8a8a8a;
 }
+
+
 
 .footer .head-title a {
   color: salmon;

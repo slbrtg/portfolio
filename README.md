@@ -16,7 +16,7 @@ _A webpage that serves as an introduction myself and work_
 
 ## Known Bugs
 
-_The text is currently a placeholder. _
+The text is currently a placeholder. 
 
 ## Support and contact details
 

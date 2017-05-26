@@ -6,7 +6,7 @@
 
 ## Description
 
-_{A webpage that serves as introduction myself and work_
+_A webpage that serves as an introduction myself and work_
 
 ## Setup/Installation Requirements
 
@@ -16,7 +16,7 @@ _{A webpage that serves as introduction myself and work_
 
 ## Known Bugs
 
-_None as of now_
+_The text is currently a placeholder. _
 
 ## Support and contact details
 
